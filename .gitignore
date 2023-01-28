@@ -1,0 +1,10 @@
+# Ignore (for dataset and package protection)
+venv/
+Stocks/
+*.csv
+
+# MacOS
+*.DS_Store
+
+# IntelliJ
+*.idea/
